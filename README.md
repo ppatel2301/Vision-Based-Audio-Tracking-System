@@ -39,4 +39,4 @@ Gesture Media Tracking System which is a Python application that uses a webcam t
 
    ```bash
    git clone https://github.com/ppatel2301/Vision-Based-Audio-Tracking-System.git
-   cd gesture-media-control
+   cd Vision-Based-Audio-Tracking-System
